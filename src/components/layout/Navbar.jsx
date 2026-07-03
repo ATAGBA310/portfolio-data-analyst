@@ -91,26 +91,23 @@ function Navbar() {
         </nav>
 
         <a
-          href="#"
-          className="
-          hidden
-          md:flex
-
-          bg-blue-600
-          hover:bg-blue-700
-
-          px-5
-          py-3
-
-          rounded-xl
-
-          transition
-
-          font-semibold
-          "
+            href="/documents/cv-abide-tagba.pdf"
+            target="_blank"
+            rel="noreferrer"
+            className="
+              hidden
+              md:flex
+              bg-blue-600
+              hover:bg-blue-700
+              px-5
+              py-3
+              rounded-xl
+              transition
+              font-semibold
+            "
         >
-          Télécharger CV
-        </a>
+  Télécharger CV
+</a>
 
       </div>
 

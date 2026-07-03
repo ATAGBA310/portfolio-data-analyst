@@ -58,7 +58,9 @@ function Contact() {
 
         <div className="text-center">
           <a
-            href="#"
+            href="/documents/cv-abide-tagba.pdf"
+            target="_blank"
+            rel="noreferrer"
             className="inline-flex items-center gap-3 rounded-xl bg-blue-600 px-8 py-4 font-semibold hover:bg-blue-700 hover:-translate-y-1 transition-all duration-300"
           >
             Télécharger mon CV
