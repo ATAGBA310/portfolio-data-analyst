@@ -11,7 +11,7 @@ function Stats() {
       label: "Événements e-commerce analysés",
     },
     {
-      value: "2",
+      value: "3",
       label: "Projets Data publiés",
     },
     {
