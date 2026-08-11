@@ -1,6 +1,6 @@
 import homeCreditImage from "../assets/images/home-credit-boxplot.png";
 import ecommerceImage from "../assets/images/ecommerce-funnel.png";
-import retailPipelineImage from "../assets/images/dashboard_powerbi.png";
+import retailPipelineImage from "../assets/images/retail-data-engineering-dashboard.png";
 
 const projects = [
   {
