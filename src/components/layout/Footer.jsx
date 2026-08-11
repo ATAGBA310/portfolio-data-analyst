@@ -7,7 +7,7 @@ function Footer() {
             Abidé <span className="text-blue-500">TAGBA</span>
           </h3>
           <p className="text-slate-400 mt-2">
-            Data Analyst | Python | Power BI | SQL
+            Data Analyst | Data Engineer | Python | Power BI | SQL
           </p>
         </div>
 

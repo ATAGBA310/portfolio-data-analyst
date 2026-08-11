@@ -21,7 +21,7 @@ function Hero() {
           </h1>
 
           <h2 className="text-2xl md:text-3xl font-semibold text-slate-300 mb-8">
-            Data Analyst | Python | Power BI | SQL
+            Data Analyst | Data Engineer | Python | Power BI | SQL
           </h2>
 
           <p className="max-w-2xl text-xl leading-9 text-slate-400 mb-12">
@@ -53,7 +53,7 @@ function Hero() {
           <div className="relative bg-slate-900/70 border border-slate-700 rounded-3xl p-8 shadow-2xl shadow-blue-500/10">
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-slate-800 rounded-2xl p-6">
-                <p className="text-4xl font-black text-blue-400">2</p>
+                <p className="text-4xl font-black text-blue-400">3</p>
                 <p className="text-slate-400 mt-2">Projets Data publiés</p>
               </div>
 
